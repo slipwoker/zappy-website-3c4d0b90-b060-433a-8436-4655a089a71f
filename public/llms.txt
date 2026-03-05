@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מצא את המיקוד המדויק לכל כתובת בישראל תוך שניות! מאגר מיקודים מלא ומעודכן עם 600,000 רשומות. חיפוש קל, תוצאות מיידיות - התחל עכשיו!
+
+### אודות
+https://example.com/about
+גלה איך בנינו את מאגר המיקודים המקיף והמדויק ביותר בישראל עם 600,000 רשומות. למד על השירות שלנו והטכנולוגיה שמאחוריו - קרא עוד כאן!
+
+### מדריך מיקודים
+https://example.com/postal-codes
+עיין במדריך המיקודים השלם של ישראל! גש למיקוד של כל רחוב ועיר, עם פירוט מלא ונוח לשימוש. 600,000 מיקודים במקום אחד - התחל לחפש!
+
+### צור קשר
+https://example.com/contact
+זקוק לעזרה במציאת מיקוד או יש לך שאלה? הצוות שלנו כאן בשבילך! צור קשר דרך הטופס הנוח שלנו ונחזור אליך במהירות - נשמח לעזור!
+
+### Products
+https://example.com/products
+המוצרים שלנו - מיקודי ישראל
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מיקודי ישראל
+
+### Category
+https://example.com/category/:slug
+מוצרים - מיקודי ישראל
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
